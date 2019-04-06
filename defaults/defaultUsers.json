@@ -1,0 +1,13 @@
+{
+  "guest": {
+    "name": "A user has no name",
+    "gamertag": "NoName",
+    "mail": "noUser@tempmail.none"
+  },
+
+  "torsteno": {
+    "name": "Torstein",
+    "gamertag": "Torstein",
+    "mail": "toOpen@for.mail"
+  }
+}
