@@ -21,3 +21,6 @@ class HackadeState:
             raise ValueError("New user {} not in current list of users {}.".format(newUser, self.userList))
 
         self.activeUser = newUser
+
+
+print("Hello hackade...")
